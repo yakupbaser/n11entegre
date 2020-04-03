@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.893,=C:\Users\Win10Pro\Desktop\n11entegre\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,C:\Users\Win10Pro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Win10Pro\Desktop\n11entegre\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,=C:\Users\Win10Pro\Desktop\n11entegre\CityService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.449,C:\Users\Win10Pro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Win10Pro\Desktop\n11entegre\n11otomasyon.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.907,=C:\Users\Win10Pro\Desktop\n11entegre\TicketService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=C:\Users\Win10Pro\Desktop\n11entegre\ProductSellingService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,=C:\Users\Win10Pro\Desktop\n11entegre\CategoryService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.035,=C:\Users\Win10Pro\Desktop\n11entegre\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,=C:\Users\Win10Pro\Desktop\n11entegre\OrderService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,=C:\Users\Win10Pro\Desktop\n11entegre\ProductStockService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.553,C:\Users\Win10Pro\Desktop\n11entegre\n11ApiBox.pas=C:\Users\Win10Pro\Desktop\n11entegre\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,=C:\Users\Win10Pro\Desktop\n11entegre\ShipmentService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,=C:\Users\Win10Pro\Desktop\n11entegre\SettlementService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.293,=C:\Users\Win10Pro\Desktop\n11entegre\ShipmentCompanyService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,=C:\Users\Win10Pro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,C:\Users\Win10Pro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Win10Pro\Desktop\n11entegre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.597,=C:\Users\Win10Pro\Desktop\n11entegre\ProductService.pas</Transaction>
+  </Transactions>
+</BorlandProject>
